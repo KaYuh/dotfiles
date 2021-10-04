@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = arthurancian@gmail.com
+	name = Arthur Ancian
